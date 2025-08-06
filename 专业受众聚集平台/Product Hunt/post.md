@@ -2,6 +2,12 @@
 https://www.producthunt.com/posts/new
 
 
+## 前提
+1. 新申请账号需要7天后才可以提交审核
+2. 需要使用自己的照片作为头像
+3. 需要使用完整的姓+名作为Name
+
+
 ## 审核流程：
 1. input[placeholder="www.producthunt.com"]
 Submit a product
